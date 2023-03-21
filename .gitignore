@@ -4,3 +4,4 @@
 *.lock.hcl
 *.tfvars
 rinku-capstone-repo
+.git
